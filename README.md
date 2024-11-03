@@ -31,6 +31,7 @@
 </div>
 
 Chonnam University - Statistics (Major) (2020.03 ~ 2024.02)
+<br><br>
 Chonnam University - Big Data & Financial Engineering (Double Major) (2020.03 ~ 2024.02)
 - SSAFY 11th (2024.01 ~ )
 <br><br>
