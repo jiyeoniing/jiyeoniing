@@ -52,15 +52,7 @@ Chonnam University - Big Data & Financial Engineering (Double Major) (2020.03 ~ 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=apple8785)](https://solved.ac/apple8785/)
 ![jiyeoniing's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyeoniing&show_icons=true&theme=highcontrast)
 
-    <div>
-        <h3>🏆 Baekjoon solved rank 🏆</h3>
-    </div>
-    <div>
-        <img
-                src="http://mazassumnida.wtf/api/v2/generate_badge?boj=apple8785"
-                height="150"
-                alt="solved.ac"
-        />
+
 </div>
 
 
