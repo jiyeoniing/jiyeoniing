@@ -1,7 +1,7 @@
 
 <div>
 	
-##   👋 Hi, I'm constantly step up to become a Frontend developer.
+##   👋 프론트엔드 개발자, 유지연입니다.
 <br>
 <div>
 	<h2>👀 My Tech</h2>
